@@ -31,13 +31,3 @@ int main()
 	return 0;
 }
 
-
-/*
-		for (j = userNum; j <= i; j++)
-			printf(" ");
-
-		for (k = userNum; k <= i; k++)
-			printf("*");
-
-		printf("\n");
-		*/
